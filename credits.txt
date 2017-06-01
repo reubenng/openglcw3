@@ -1,0 +1,11 @@
+Libraries:
+https://github.com/nothings/stb
+http://antongerdelan.net/opengl/
+
+Models and textures:
+Cavalera Light Tank (M551) tank 	https://free3d.com/3d-model/cavalera-light-tank-m551-63196.html
+Iron Dove AA (PGZ-95 AA) tank 		https://free3d.com/3d-model/iron-dove-aa-pgz-95-aa-30877.html
+Iron Mountain (Type-99 MBT) tank 	https://free3d.com/3d-model/iron-mountain-heavy-tank-type-99-84308.html
+stone					https://opengameart.org/sites/default/files/JaggedStoneA_T.jpg
+grass 					http://www.sketchuptexture.com/p/grass.html
+terrain
