@@ -1,6 +1,4 @@
-COMP3214 Coursework 3
-
-Reuben Ng (rdcn1g14)
+3D World
 
 Starts at default position, press T/t at any screen to start tour mode, 
 press P/p at any screen to go screencap location, press M/m at any screen to go default location
